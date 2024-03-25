@@ -12,6 +12,7 @@
     <p>Welcome to this beautiful admin panel</p>
 @stop
 
+
 {{-- Push extra CSS --}}
 
 @push('css')

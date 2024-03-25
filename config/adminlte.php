@@ -294,7 +294,7 @@ return [
     */
 
     'menu' => [
-        // Navbar items:
+        //Navbar items:
         [
             'type' => 'navbar-search',
             'text' => 'search',
@@ -323,6 +323,11 @@ return [
             'label_color' => 'success',
         ],
         ['header' => 'account_settings'],
+        [
+            'text' => 'Manage Kategori',
+            'url' => 'kategori',
+            'icon' => 'fas fa-fw fa-layer-group',
+        ],
         [
             'text' => 'profile',
             'url' => 'admin/settings',

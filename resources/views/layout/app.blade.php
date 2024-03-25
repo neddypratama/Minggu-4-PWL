@@ -3,7 +3,7 @@
 {{-- Extend and customize the browser title --}}
 
 @section('title')
-    {{ config('adminlte.title') }}
+    {{-- {{ config('adminlte.title') }} --}}
     @hasSection('subtitle') | @yield('subtitle') @endif
 @stop
 
@@ -30,6 +30,7 @@
     @yield('content_body')
 @stop
 
+
 {{-- Create a common footer --}}
 
 @section('footer')
@@ -42,21 +43,20 @@
             {{ config('app.company_name', 'My company') }}
         </a>
     </strong>
-@stop
+    @stop
 
-{{-- Add common Javascript/Jquery code --}}
+    {{-- Add common Javascript/Jquery code --}}
 
-@push('js')
-<script>
-    $(document).ready(function() {
-        // Add your common script logic here...
-    });
-</script>
-@endpush
-       
-{{-- Add common CSS customizations --}}
-       
-@push('css')
+    @push('js')
+        <script src="https://cdn.datatables.net/2.0.2/js/dataTables.js"></script>
+    @endpush
+    
+    @stack('script')
+    {{-- Add common CSS customizations --}}
+    
+    @push('css')
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.0.2/css/dataTables.css" />
+
 <style type="text/css">
     {{-- You can add AdminLTE customizations here --}}
         /*
