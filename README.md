@@ -1,3 +1,4 @@
+Jobsheet 4
 Praktikum 1
 1. ![A1](https://github.com/neddypratama/Minggu-4-PWL/assets/91863152/7bb44145-2fb3-4e36-a346-c88230290e55)
 2. ![A2](https://github.com/neddypratama/Minggu-4-PWL/assets/91863152/efdcd782-0712-45b8-8663-3e4eaf878655)
@@ -81,6 +82,53 @@ Praktikum 2.7
 4. ![H4](https://github.com/neddypratama/Minggu-4-PWL/assets/91863152/7754c9a0-2385-4005-9720-4bc103fa11bd)
 5. ![H5](https://github.com/neddypratama/Minggu-4-PWL/assets/91863152/e6cc56b0-489e-40bf-b708-2721d43c0315)
 6. ![H6](https://github.com/neddypratama/Minggu-4-PWL/assets/91863152/c745ee63-d66f-4a8a-99c3-f5db60c7cd00)
+
+Jobsheet 5
+Praktikum 1
+1. ![A1](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/0487ca02-5079-43bc-ae72-14f04d757254)
+2. ![A2](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/e41f56d2-f6ae-4c8d-9ce1-fc8c8990ffef)
+3. ![A3](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/a70df63e-ef9a-4a11-ac57-ccffcd72587d)
+4. ![A4](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/daddf36a-945e-4b45-be68-aab7f4d268ba)
+5. ![A5](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/3e37939e-6dae-4aac-8f22-9a7401d5f081)
+
+Praktikum 2
+1. ![B1](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/a7870dee-76a6-4420-9ec7-cf7907225e95) ![B2](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/1546a3da-9338-40c4-89e4-71763b717d83)
+3. ![B3](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/66c08bc9-f134-4d78-ba09-1ba1cae89b55) ![B4](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/87d4ba5c-1c84-4009-8f67-bd5befa9e1bc)
+4. ![B5](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/12db910a-253f-4d06-8a27-aefb911078ed)
+5. ![B6](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/055d59da-5588-4a93-98ef-d8b5e94d22a9)
+6. ![B7](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/8c9211bc-f4ad-4fe6-ae7d-6b10a1771c15)
+7. ![B8](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/5459c577-94e2-40b8-82ae-cb1ef98019d1)
+8. ![B9](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/53ab4a4f-50cc-44b5-bb87-94b3575b9b00)
+9. ![B10](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/9ab1cff9-0a8d-43d2-8173-52aa0db36c12)
+10. ![B11](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/b02e17d2-1b6b-4b3a-b30f-106ef4a41fef)
+11. ![B12](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/8dec06bf-6090-46cb-86b4-654195cd7004)
+12. ![B13](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/b532de5a-c9e8-4bee-9921-708956213d87)
+13. ![B14](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/25647f0b-02b0-46d0-bbd5-8259f6cbf23b)
+14. ![B15](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/fa7b094c-59a2-44a5-84a4-1208c954724e)
+15. ![B16](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/213ea352-4e0f-457d-afe0-0960f0bd44b8)
+16. ![B17](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/d2e5a569-3621-4072-ace3-eada664ad30a)
+
+Praktikum 3
+1. ![C1](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/b2f660a1-1240-4d77-b078-f2f64fee8f63)
+2. ![C2](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/dec9b682-2d4d-4927-8691-b0dfe222ef18)
+3. ![C3](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/5df9018d-9114-4453-abf2-5499098eeef3)
+4. ![C4](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/ff43c0b2-7899-4974-b2a8-b77572014d84)
+5. ![C5](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/2594fea4-193e-4dc8-88b7-4d2ccb2a11a9)
+6. ![C6](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/323f950e-de8c-4690-9a1c-08851e1621fb)
+
+Tugas
+![D1](https://github.com/neddypratama/Minggu-4-dan-5-PWL/assets/91863152/0c7096f8-7c6e-4a2d-a30f-ae5b9c7e2527)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
